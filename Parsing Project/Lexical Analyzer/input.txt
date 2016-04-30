@@ -1,0 +1,5 @@
+var x, /* This Is A Comment */y, z, 5notaword; 
+begin
+x := 2;
+y := x + 56;
+z := /* another Comment */ 102345

@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 9a2101f93014abb4788886067aa8f8a2
+timeCreated: 1459104255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Protoman_Sprites_0
+    21300002: Protoman_Sprites_1
+    21300004: Protoman_Sprites_2
+    21300006: Protoman_Sprites_3
+    21300008: Protoman_Sprites_4
+    21300010: Protoman_Sprites_5
+    21300012: Protoman_Sprites_6
+    21300014: Protoman_Sprites_7
+    21300016: Protoman_Sprites_8
+    21300018: Protoman_Sprites_9
+    21300020: Protoman_Sprites_10
+    21300022: Protoman_Sprites_11
+    21300024: Protoman_Sprites_12
+    21300026: Protoman_Sprites_13
+    21300028: Protoman_Sprites_14
+    21300030: Protoman_Sprites_15
+    21300032: Protoman_Sprites_16
+    21300034: Protoman_Sprites_17
+    21300036: Protoman_Sprites_18
+    21300038: Protoman_Sprites_19
+    21300040: Protoman_Sprites_20
+    21300042: Protoman_Sprites_21
+    21300044: Protoman_Sprites_22
+    21300046: Protoman_Sprites_23
+    21300048: Protoman_Sprites_24
+    21300050: Protoman_Sprites_25
+    21300052: Protoman_Sprites_26
+    21300054: Protoman_Sprites_27
+    21300056: Protoman_Sprites_28
+    21300058: Protoman_Sprites_29
+    21300060: Protoman_Sprites_30
+    21300062: Protoman_Sprites_31
+    21300064: Protoman_Sprites_32
+    21300066: Protoman_Sprites_33
+    21300068: Protoman_Sprites_34
+    21300070: Protoman_Sprites_35
+    21300072: Protoman_Sprites_36
+    21300074: Protoman_Sprites_37
+    21300076: Protoman_Sprites_38
+    21300078: Protoman_Sprites_39
+    21300080: Protoman_Sprites_40
+    21300082: Protoman_Sprites_41
+    21300084: Protoman_Sprites_42
+    21300086: Protoman_Sprites_43
+    21300088: Protoman_Sprites_44
+    21300090: Protoman_Sprites_45
+    21300092: Protoman_Sprites_46
+    21300094: Protoman_Sprites_47
+    21300096: Protoman_Sprites_48
+    21300098: Protoman_Sprites_49
+    21300100: Protoman_Sprites_50
+    21300102: Protoman_Sprites_51
+    21300104: Protoman_Sprites_52
+    21300106: Protoman_Sprites_53
+    21300108: Protoman_Sprites_54
+    21300110: Protoman_Sprites_55
+    21300112: Protoman_Sprites_56
+    21300114: Protoman_Sprites_57
+    21300116: Protoman_Sprites_58
+    21300118: Protoman_Sprites_59
+    21300120: Protoman_Sprites_60
+    21300122: Protoman_Sprites_61
+    21300124: Protoman_Sprites_62
+    21300126: Protoman_Sprites_63
+    21300128: Protoman_Sprites_64
+    21300130: Protoman_Sprites_65
+    21300132: Protoman_Sprites_66
+    21300134: Protoman_Sprites_67
+    21300136: Protoman_Sprites_68
+    21300138: Protoman_Sprites_69
+    21300140: Protoman_Sprites_70
+    21300142: Protoman_Sprites_71
+    21300144: Protoman_Sprites_72
+    21300146: Protoman_Sprites_73
+    21300148: Protoman_Sprites_74
+    21300150: Protoman_Sprites_75
+    21300152: Protoman_Sprites_76
+    21300154: Protoman_Sprites_77
+    21300156: Protoman_Sprites_78
+    21300158: Protoman_Sprites_79
+    21300160: Protoman_Sprites_80
+    21300162: Protoman_Sprites_81
+    21300164: Protoman_Sprites_82
+    21300166: Protoman_Sprites_83
+    21300168: Protoman_Sprites_84
+    21300170: Protoman_Sprites_85
+    21300172: Protoman_Sprites_86
+    21300174: Protoman_Sprites_87
+    21300176: Protoman_Sprites_88
+    21300178: Protoman_Sprites_89
+    21300180: Protoman_Sprites_90
+    21300182: Protoman_Sprites_91
+    21300184: Protoman_Sprites_92
+    21300186: Protoman_Sprites_93
+    21300188: Protoman_Sprites_94
+    21300190: Protoman_Sprites_95
+    21300192: Protoman_Sprites_96
+    21300194: Protoman_Sprites_97
+    21300196: Protoman_Sprites_98
+    21300198: Protoman_Sprites_99
+    21300200: Protoman_Sprites_100
+    21300202: Protoman_Sprites_101
+    21300204: Protoman_Sprites_102
+    21300206: Protoman_Sprites_103
+    21300208: Protoman_Sprites_104
+    21300210: Protoman_Sprites_105
+    21300212: Protoman_Sprites_106
+    21300214: Protoman_Sprites_107
+    21300216: Protoman_Sprites_108
+    21300218: Protoman_Sprites_109
+    21300220: Protoman_Sprites_110
+    21300222: Protoman_Sprites_111
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Protoman_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 555
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 555
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 555
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 555
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 555
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 555
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -16}
+        - {x: 20.5, y: -16}
+        - {x: 20.5, y: -4}
+        - {x: 18.5, y: 16}
+        - {x: -14.5, y: 16}
+        - {x: -20.5, y: -7}
+    - name: Protoman_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 555
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -19.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 7.5}
+        - {x: 21, y: 16.5}
+        - {x: 15, y: 19.5}
+    - name: Protoman_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -20, y: 14}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 4}
+        - {x: 19, y: 17}
+        - {x: 16, y: 21}
+    - name: Protoman_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 3}
+        - {x: 19, y: 17}
+        - {x: 14, y: 21}
+    - name: Protoman_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -20, y: 11}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 4}
+        - {x: 19, y: 17}
+        - {x: 16, y: 21}
+    - name: Protoman_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 504
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21}
+        - {x: -18.5, y: 14}
+        - {x: -18.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 21}
+    - name: Protoman_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21}
+        - {x: -16.5, y: -7}
+        - {x: -13.5, y: -21}
+        - {x: 12.5, y: -21}
+        - {x: 12.5, y: -17}
+        - {x: 16.5, y: -7}
+        - {x: 16.5, y: 21}
+    - name: Protoman_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -20}
+        - {x: -15.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 16.5, y: 21}
+    - name: Protoman_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: -3}
+        - {x: 16, y: 20}
+        - {x: 15, y: 21}
+    - name: Protoman_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: -3}
+        - {x: 16, y: 20}
+        - {x: 15, y: 21}
+    - name: Protoman_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: -3}
+        - {x: 16, y: 20}
+        - {x: 15, y: 21}
+    - name: Protoman_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 15}
+        - {x: 13.5, y: 21}
+    - name: Protoman_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 15}
+        - {x: 13.5, y: 21}
+    - name: Protoman_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 15}
+        - {x: 13.5, y: 21}
+    - name: Protoman_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 21}
+    - name: Protoman_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 21}
+    - name: Protoman_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 21}
+    - name: Protoman_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 454
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 12.5, y: -18.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 17.5, y: 18.5}
+    - name: Protoman_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 454
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19.5}
+        - {x: -17, y: 12.5}
+        - {x: -17, y: -18.5}
+        - {x: -16, y: -19.5}
+        - {x: 13, y: -19.5}
+        - {x: 17, y: -10.5}
+        - {x: 17, y: 19.5}
+    - name: Protoman_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 454
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 9}
+        - {x: -19, y: 4}
+        - {x: -19, y: -17}
+        - {x: -17, y: -20}
+        - {x: 12, y: -20}
+        - {x: 19, y: -19}
+        - {x: 19, y: 20}
+    - name: Protoman_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 454
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -24, y: -3.5}
+        - {x: -24, y: -18.5}
+        - {x: 24, y: -18.5}
+        - {x: 24, y: 18.5}
+    - name: Protoman_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 454
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -21, y: -4}
+        - {x: -21, y: -19}
+        - {x: 21, y: -19}
+        - {x: 21, y: 19}
+    - name: Protoman_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 454
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18.5}
+        - {x: -17, y: -16.5}
+        - {x: -15, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 17, y: -13.5}
+        - {x: 17, y: 17.5}
+        - {x: 16, y: 18.5}
+    - name: Protoman_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 454
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -16.5, y: -17}
+        - {x: -15.5, y: -19}
+        - {x: 7.5, y: -19}
+        - {x: 16.5, y: -5}
+        - {x: 16.5, y: 19}
+    - name: Protoman_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 454
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -18.5}
+        - {x: -15.5, y: -19.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 16.5, y: 19.5}
+    - name: Protoman_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 453
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18.5}
+        - {x: -20.5, y: 17.5}
+        - {x: -20.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 17.5}
+        - {x: 18.5, y: 18.5}
+    - name: Protoman_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 453
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19.5}
+        - {x: -19.5, y: 14.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+    - name: Protoman_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 384
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 384
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 384
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 30.5}
+        - {x: -20.5, y: -30.5}
+        - {x: 3.5, y: -30.5}
+        - {x: 20.5, y: 1.5}
+        - {x: 20.5, y: 21.5}
+        - {x: 6.5, y: 30.5}
+    - name: Protoman_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 384
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 31}
+        - {x: -20.5, y: 31}
+        - {x: -20.5, y: -28}
+        - {x: -15.5, y: -31}
+        - {x: 2.5, y: -31}
+        - {x: 20.5, y: 4}
+        - {x: 20.5, y: 14}
+        - {x: 7.5, y: 30}
+    - name: Protoman_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 388
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -21, y: -2}
+        - {x: -21, y: -20}
+        - {x: 21, y: -20}
+        - {x: 21, y: 15}
+        - {x: 20, y: 20}
+    - name: Protoman_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 388
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -19}
+        - {x: 20, y: -19}
+        - {x: 26, y: -9}
+        - {x: 26, y: 14}
+        - {x: 16, y: 19}
+    - name: Protoman_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 387
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -26.5, y: -7}
+        - {x: -26.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 26.5, y: -9}
+        - {x: 26.5, y: 19}
+    - name: Protoman_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 387
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -26.5, y: -7}
+        - {x: -26.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 26.5, y: -9}
+        - {x: 26.5, y: 19}
+    - name: Protoman_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 386
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 29}
+        - {x: -26.5, y: -29}
+        - {x: 4.5, y: -29}
+        - {x: 26.5, y: -13}
+        - {x: 26.5, y: 29}
+    - name: Protoman_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 386
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 29}
+        - {x: -26.5, y: -29}
+        - {x: 4.5, y: -29}
+        - {x: 26.5, y: -13}
+        - {x: 26.5, y: 29}
+    - name: Protoman_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 334
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -24.5, y: -17.5}
+        - {x: -20.5, y: -18.5}
+        - {x: 5.5, y: -18.5}
+        - {x: 24.5, y: -4.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 11.5, y: 18.5}
+    - name: Protoman_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 334
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19.5}
+        - {x: -24, y: 19.5}
+        - {x: -24, y: -19.5}
+        - {x: 7, y: -19.5}
+        - {x: 24, y: -2.5}
+        - {x: 24, y: 13.5}
+    - name: Protoman_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 334
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -25, y: 16}
+        - {x: -25, y: -20}
+        - {x: 17, y: -20}
+        - {x: 25, y: -5}
+        - {x: 25, y: 15}
+        - {x: 20, y: 20}
+    - name: Protoman_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 18.5}
+        - {x: -9.5, y: 18.5}
+        - {x: -26.5, y: 12.5}
+        - {x: -28.5, y: 6.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -19.5, y: -18.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 25.5, y: -8.5}
+        - {x: 28.5, y: -3.5}
+        - {x: 28.5, y: 10.5}
+    - name: Protoman_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 334
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 19}
+        - {x: -10, y: 19}
+        - {x: -27, y: -4}
+        - {x: -27, y: -19}
+        - {x: 19, y: -19}
+        - {x: 27, y: -4}
+        - {x: 27, y: 12}
+    - name: Protoman_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 334
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 18.5}
+        - {x: -24, y: -18.5}
+        - {x: 13, y: -18.5}
+        - {x: 24, y: -9.5}
+        - {x: 24, y: 6.5}
+        - {x: 17, y: 18.5}
+    - name: Protoman_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 334
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 19}
+        - {x: -23.5, y: -16}
+        - {x: -19.5, y: -19}
+        - {x: 0.5, y: -19}
+        - {x: 23.5, y: -5}
+        - {x: 23.5, y: 6}
+        - {x: 7.5, y: 19}
+    - name: Protoman_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 334
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19.5}
+        - {x: -19, y: 19.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -19.5}
+        - {x: 9, y: -19.5}
+        - {x: 12, y: -16.5}
+        - {x: 24, y: -6.5}
+        - {x: 24, y: 8.5}
+    - name: Protoman_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 334
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 11.5}
+        - {x: 12, y: 18.5}
+        - {x: -25, y: 18.5}
+        - {x: -27, y: 17.5}
+        - {x: -27, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 25, y: -8.5}
+        - {x: 27, y: -4.5}
+    - name: Protoman_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 334
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -6.5}
+        - {x: 26, y: -2.5}
+        - {x: 26, y: 8.5}
+        - {x: 19, y: 19.5}
+        - {x: -26, y: 19.5}
+        - {x: -26, y: -19.5}
+        - {x: 12, y: -19.5}
+        - {x: 15, y: -15.5}
+        - {x: 15, y: -12.5}
+        - {x: 13, y: -9.5}
+    - name: Protoman_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 282
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -20}
+        - {x: 21, y: -15}
+        - {x: 19, y: -12}
+        - {x: 13, y: 16}
+        - {x: 10, y: 20}
+        - {x: -14, y: 20}
+        - {x: -18, y: 12}
+        - {x: -21, y: 2}
+        - {x: -21, y: -20}
+        - {x: 0, y: -20}
+        - {x: 0, y: -17}
+        - {x: 0, y: -19}
+        - {x: 1, y: -20}
+    - name: Protoman_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 282
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 18.5}
+        - {x: -15.5, y: 14.5}
+        - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -20.5, y: 0.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -21.5, y: -18.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 21.5, y: -12.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 18.5, y: 18.5}
+    - name: Protoman_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 20}
+        - {x: -27, y: 16}
+        - {x: -27, y: -20}
+        - {x: 27, y: -20}
+        - {x: 27, y: 13}
+        - {x: 17, y: 20}
+    - name: Protoman_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 282
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 18}
+        - {x: -27, y: 14}
+        - {x: -27, y: -18}
+        - {x: 27, y: -18}
+        - {x: 27, y: 15}
+        - {x: 26, y: 18}
+    - name: Protoman_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 282
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -26.5, y: 11}
+        - {x: -28.5, y: 2}
+        - {x: -28.5, y: -18}
+        - {x: 28.5, y: -18}
+        - {x: 28.5, y: 15}
+        - {x: 26.5, y: 18}
+    - name: Protoman_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 282
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 18}
+        - {x: -31.5, y: 2}
+        - {x: -31.5, y: -18}
+        - {x: 31.5, y: -18}
+        - {x: 31.5, y: 15}
+        - {x: 27.5, y: 18}
+    - name: Protoman_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 282
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -8.5}
+        - {x: 5.5, y: -12.5}
+        - {x: 16.5, y: -18.5}
+        - {x: 17.5, y: -18.5}
+        - {x: 21.5, y: -13.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 16.5, y: 18.5}
+        - {x: -9.5, y: 18.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -21.5, y: -6.5}
+        - {x: -19.5, y: -7.5}
+        - {x: -17.5, y: -7.5}
+        - {x: -19.5, y: -7.5}
+        - {x: -21.5, y: -10.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -19.5, y: -18.5}
+        - {x: 1.5, y: -18.5}
+        - {x: 3.5, y: -16.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: -6.5}
+    - name: Protoman_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 282
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -11.5}
+        - {x: -17, y: -19.5}
+        - {x: 20, y: -19.5}
+        - {x: 20, y: 18.5}
+        - {x: 14, y: 19.5}
+    - name: Protoman_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 276
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 24}
+        - {x: -13.5, y: 17}
+        - {x: -13.5, y: 12}
+        - {x: -9.5, y: 8}
+        - {x: -7.5, y: 8}
+        - {x: -25.5, y: 8}
+        - {x: -25.5, y: -13}
+        - {x: -10.5, y: -24}
+        - {x: 21.5, y: -24}
+        - {x: 25.5, y: -11}
+        - {x: 25.5, y: 23}
+        - {x: 24.5, y: 24}
+    - name: Protoman_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 280
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 19}
+        - {x: -21, y: 19}
+        - {x: -25, y: 11}
+        - {x: -25, y: -10}
+        - {x: -9, y: -19}
+        - {x: 14, y: -19}
+        - {x: 15, y: -18}
+        - {x: 25, y: 0}
+        - {x: 25, y: 17}
+    - name: Protoman_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 283
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 280
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20}
+        - {x: -21.5, y: 4}
+        - {x: -21.5, y: -20}
+        - {x: 6.5, y: -20}
+        - {x: 21.5, y: -10}
+        - {x: 21.5, y: 20}
+    - name: Protoman_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 280
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -21.5, y: 19}
+        - {x: -21.5, y: -20}
+        - {x: 6.5, y: -20}
+        - {x: 21.5, y: -5}
+        - {x: 21.5, y: 19}
+        - {x: 20.5, y: 20}
+    - name: Protoman_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 222
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -3}
+        - {x: -8, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: 10}
+        - {x: 24, y: 16}
+        - {x: 15, y: 18}
+        - {x: -18, y: 18}
+        - {x: -25, y: 10}
+    - name: Protoman_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15.5}
+        - {x: -22, y: -18.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 13.5}
+        - {x: 23, y: 18.5}
+        - {x: -16, y: 18.5}
+        - {x: -25, y: 2.5}
+    - name: Protoman_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 222
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 16.5}
+        - {x: -25.5, y: -6.5}
+        - {x: -20.5, y: -16.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: -8.5}
+        - {x: 6.5, y: 16.5}
+    - name: Protoman_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19}
+        - {x: -20.5, y: -19}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 13}
+        - {x: 11.5, y: 19}
+    - name: Protoman_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -19.5, y: -18.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 5.5}
+        - {x: 17.5, y: 18.5}
+    - name: Protoman_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 227
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20.5}
+        - {x: -24, y: -15.5}
+        - {x: -12, y: -20.5}
+        - {x: 24, y: -20.5}
+        - {x: 24, y: 0.5}
+        - {x: 13, y: 20.5}
+    - name: Protoman_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 229
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -19}
+        - {x: 25, y: -19}
+        - {x: 25, y: 16}
+        - {x: 24, y: 19}
+        - {x: -25, y: 19}
+        - {x: -25, y: -10}
+    - name: Protoman_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 230
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -7.5, y: -18.5}
+        - {x: 21.5, y: -18.5}
+        - {x: 25.5, y: -8.5}
+        - {x: 25.5, y: 10.5}
+        - {x: 9.5, y: 18.5}
+    - name: Protoman_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 232
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17}
+        - {x: -22.5, y: 11}
+        - {x: -22.5, y: -16}
+        - {x: -21.5, y: -17}
+        - {x: -1.5, y: -17}
+        - {x: 21.5, y: -13}
+        - {x: 22.5, y: -12}
+        - {x: 22.5, y: 11}
+        - {x: 19.5, y: 17}
+    - name: Protoman_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 230
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -18.5, y: -16}
+        - {x: -17.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 19}
+    - name: Protoman_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 231
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18.5}
+        - {x: -25.5, y: 13.5}
+        - {x: -25.5, y: -7.5}
+        - {x: -11.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: 3.5}
+        - {x: 8.5, y: 18.5}
+    - name: Protoman_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 231
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -22.5, y: 13}
+        - {x: -22.5, y: -11}
+        - {x: -18.5, y: -17}
+        - {x: 5.5, y: -17}
+        - {x: 21.5, y: -15}
+        - {x: 22.5, y: -14}
+        - {x: 22.5, y: 17}
+    - name: Protoman_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 231
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 16}
+        - {x: 13.5, y: 19}
+    - name: Protoman_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 179
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19.5}
+        - {x: -22, y: -6.5}
+        - {x: -22, y: -19.5}
+        - {x: 18, y: -19.5}
+        - {x: 22, y: -17.5}
+        - {x: 22, y: 19.5}
+    - name: Protoman_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 179
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 181
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: -15.5}
+        - {x: -18, y: -18.5}
+        - {x: 19, y: -18.5}
+        - {x: 19, y: 16.5}
+        - {x: 14, y: 18.5}
+    - name: Protoman_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 184
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 179
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -16}
+        - {x: 20.5, y: -16}
+        - {x: 20.5, y: -4}
+        - {x: 18.5, y: 16}
+        - {x: -14.5, y: 16}
+        - {x: -20.5, y: -7}
+    - name: Protoman_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 179
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 179
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -19.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 7.5}
+        - {x: 21, y: 16.5}
+        - {x: 15, y: 19.5}
+    - name: Protoman_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -10, y: 18}
+        - {x: -21, y: 8}
+        - {x: -21, y: -21}
+        - {x: 21, y: -21}
+        - {x: 21, y: 21}
+    - name: Protoman_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 123
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -20, y: 13}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 21}
+    - name: Protoman_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 122
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: -21}
+        - {x: 20.5, y: -21}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 21}
+    - name: Protoman_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 21}
+        - {x: -26.5, y: 18}
+        - {x: -26.5, y: -21}
+        - {x: 23.5, y: -21}
+        - {x: 26.5, y: -17}
+        - {x: 26.5, y: 18}
+        - {x: 15.5, y: 21}
+    - name: Protoman_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: -26.5, y: 15}
+        - {x: -26.5, y: -21}
+        - {x: 25.5, y: -21}
+        - {x: 26.5, y: -20}
+        - {x: 26.5, y: 12}
+        - {x: 17.5, y: 21}
+    - name: Protoman_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 125
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 17}
+        - {x: 14.5, y: 21}
+        - {x: -26.5, y: 21}
+        - {x: -26.5, y: -21}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -17}
+        - {x: 26.5, y: -6}
+    - name: Protoman_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 126
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -19}
+        - {x: -5.5, y: -20}
+        - {x: 14.5, y: -20}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -16}
+        - {x: 25.5, y: -6}
+        - {x: 25.5, y: 18}
+        - {x: 16.5, y: 20}
+        - {x: -24.5, y: 20}
+        - {x: -25.5, y: 17}
+        - {x: -25.5, y: -20}
+        - {x: -6.5, y: -20}
+        - {x: -7.5, y: -14}
+        - {x: -4.5, y: -12}
+        - {x: -5.5, y: -13}
+    - name: Protoman_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 127
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -19}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: -16}
+        - {x: 12.5, y: -11}
+        - {x: 12.5, y: -5}
+        - {x: 12.5, y: -6}
+        - {x: 22.5, y: -5}
+        - {x: 26.5, y: -5}
+        - {x: 26.5, y: 9}
+        - {x: 19.5, y: 19}
+        - {x: -14.5, y: 19}
+        - {x: -22.5, y: 7}
+        - {x: -22.5, y: 0}
+        - {x: -26.5, y: -9}
+        - {x: -26.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -5.5, y: -17}
+        - {x: -5.5, y: -18}
+        - {x: -4.5, y: -19}
+    - name: Protoman_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 127
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -19}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: -16}
+        - {x: 12.5, y: -11}
+        - {x: 12.5, y: -5}
+        - {x: 12.5, y: -6}
+        - {x: 22.5, y: -5}
+        - {x: 26.5, y: -3}
+        - {x: 26.5, y: 9}
+        - {x: 14.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -26.5, y: 17}
+        - {x: -26.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -5.5, y: -17}
+        - {x: -5.5, y: -18}
+        - {x: -4.5, y: -19}
+    - name: Protoman_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 129
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -19}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: -16}
+        - {x: 12.5, y: -11}
+        - {x: 12.5, y: -5}
+        - {x: 12.5, y: -6}
+        - {x: 22.5, y: -5}
+        - {x: 26.5, y: -3}
+        - {x: 26.5, y: 15}
+        - {x: 13.5, y: 19}
+        - {x: -18.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -26.5, y: -5}
+        - {x: -26.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -5.5, y: -17}
+        - {x: -5.5, y: -18}
+        - {x: -4.5, y: -19}
+    - name: Protoman_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 128
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -6}
+        - {x: 22.5, y: -5}
+        - {x: 26.5, y: -5}
+        - {x: 26.5, y: 9}
+        - {x: 19.5, y: 19}
+        - {x: -13.5, y: 19}
+        - {x: -19.5, y: 11}
+        - {x: -21.5, y: 4}
+        - {x: -21.5, y: 2}
+        - {x: -16.5, y: -3}
+        - {x: -26.5, y: -14}
+        - {x: -26.5, y: -19}
+        - {x: 16.5, y: -19}
+        - {x: 17.5, y: -15}
+        - {x: 12.5, y: -11}
+        - {x: 12.5, y: -5}
+    - name: Protoman_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19}
+        - {x: -22.5, y: 18}
+        - {x: -22.5, y: -19}
+        - {x: 22.5, y: -19}
+        - {x: 22.5, y: 15}
+        - {x: 19.5, y: 19}
+    - name: Protoman_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 18.5}
+        - {x: -22, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 16.5}
+        - {x: 21, y: 18.5}
+    - name: Protoman_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 18.5}
+        - {x: -22, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 18.5}
+    - name: Protoman_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 18.5}
+        - {x: -19, y: 18.5}
+        - {x: -22, y: 17.5}
+    - name: Protoman_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -20}
+        - {x: 21, y: -15}
+        - {x: 19, y: -12}
+        - {x: 13, y: 16}
+        - {x: 10, y: 20}
+        - {x: -14, y: 20}
+        - {x: -18, y: 12}
+        - {x: -21, y: 2}
+        - {x: -21, y: -20}
+        - {x: 0, y: -20}
+        - {x: 0, y: -17}
+        - {x: 0, y: -19}
+        - {x: 1, y: -20}
+    - name: Protoman_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -5.5}
+        - {x: 43, y: 12.5}
+        - {x: 43, y: 24.5}
+        - {x: 13, y: 24.5}
+        - {x: -43, y: 3.5}
+        - {x: -43, y: -3.5}
+        - {x: -9, y: -20.5}
+        - {x: 18, y: -24.5}
+        - {x: 43, y: -24.5}
+        - {x: 43, y: -16.5}
+        - {x: 39, y: -8.5}
+    - name: Protoman_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 24.5}
+        - {x: 13.5, y: 22.5}
+        - {x: -15.5, y: 3.5}
+        - {x: -15.5, y: -1.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 41.5, y: -24.5}
+        - {x: 41.5, y: 24.5}
+      - - {x: -30.5, y: 6.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -3.5}
+        - {x: -30.5, y: -6.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -21.5, y: -5.5}
+        - {x: -21.5, y: 5.5}
+        - {x: -23.5, y: 6.5}
+      - - {x: -41.5, y: -2.5}
+        - {x: -36.5, y: -2.5}
+        - {x: -34.5, y: -0.5}
+        - {x: -35.5, y: 2.5}
+        - {x: -41.5, y: 2.5}
+    - name: Protoman_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 25
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21.5}
+        - {x: -28, y: 6.5}
+        - {x: -28, y: -2.5}
+        - {x: -8, y: -14.5}
+        - {x: 6, y: -21.5}
+        - {x: 28, y: -21.5}
+        - {x: 28, y: 21.5}
+    - name: Protoman_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 29
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 18.5}
+        - {x: -26.5, y: 3.5}
+        - {x: -26.5, y: -2.5}
+        - {x: 0.5, y: -18.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 18.5}
+    - name: Protoman_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 30
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 18.5}
+        - {x: -26.5, y: 3.5}
+        - {x: -26.5, y: -2.5}
+        - {x: 5.5, y: -18.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 18.5}
+      - - {x: 23.5, y: -0.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 26.5, y: -2.5}
+        - {x: 26.5, y: 2.5}
+        - {x: 24.5, y: 2.5}
+    - name: Protoman_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 23
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Protoman_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 27
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24.5}
+        - {x: -12, y: 6.5}
+        - {x: -12, y: -3.5}
+        - {x: 24, y: -24.5}
+        - {x: 37, y: -24.5}
+        - {x: 37, y: 24.5}
+      - - {x: -37, y: -5.5}
+        - {x: -6, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 7, y: 17.5}
+        - {x: -12, y: 17.5}
+        - {x: -37, y: 5.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
